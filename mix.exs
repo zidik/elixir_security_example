@@ -21,7 +21,7 @@ defmodule ElixirSecurityExample.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:hackney, "~> 1.17.0"},
+      {:hackney, "~> 3.2.1"},
       {:ecto, "== 2.2.0"},
       {:plug, "1.10.0"},
       {:phoenix, "1.6.0"}
