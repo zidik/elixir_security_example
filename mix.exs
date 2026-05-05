@@ -22,7 +22,7 @@ defmodule ElixirSecurityExample.MixProject do
   defp deps do
     [
       {:hackney, "~> 1.17.0"},
-      {:ecto, "== 2.2.0"},
+      {:ecto, "== 3.13.6"},
       {:plug, "1.10.0"},
       {:phoenix, "1.6.0"}
       # {:dep_from_hexpm, "~> 0.3.0"},
